@@ -1,5 +1,7 @@
 
 import React from 'react';
+import Home from '../../views/exemplos/Home';
+import { Route } from 'react-router';
 const Menu = props =>(
 <aside className='Menu'>
 <nav>
